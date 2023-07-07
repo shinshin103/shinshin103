@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=shinshin_103;MinecaftServerDeveloper" alt="Typing SVG" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinshin103)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi I am shinshin_103👋
 <img src="https://komarev.com/ghpvc/?username=shinshin103">
 <!--
