@@ -1,11 +1,12 @@
-### Hi there 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=shinshin_103;MinecaftServerDeveloper" alt="Typing SVG" /></a>
+### Hi I am shinshin_103👋
+https://komarev.com/ghpvc/?username=shinshin103
 <!--
 **shinshin103/shinshin103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on MinecaftServerDevelop
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
